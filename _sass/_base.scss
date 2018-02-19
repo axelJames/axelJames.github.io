@@ -348,4 +348,16 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
+.test{
+    display: block;
+    margin:auto;
+}
 
+.fillpath{
+    fill:$theme-primary;
+    align:center;
+}
+
+.btnmar{
+    margin: 5px;
+}

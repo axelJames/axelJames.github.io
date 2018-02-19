@@ -7,6 +7,13 @@
 (function($) {
     "use strict"; // Start of use strict
 
+    //  $('#transcript_1').hide(); //Initially form wil be hidden.
+
+    // $('#transcripts_btn').click(function() {
+    //     $('#transcript_1').hide();
+    //        $('#transcript_1').show();//Form shows on button click
+
+    //        });
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
